@@ -36,10 +36,10 @@ export default function About() {
             I thrive where engineering rigor meets creativity — from low-level systems to scalable backend design and automation.
           </p>
           <div className="mt-4 grid grid-cols-2 gap-3 sm:grid-cols-4">
-            <TechPill icon={<Server className=\"h-4 w-4\" />} label="Backend" />
-            <TechPill icon={<Cpu className=\"h-4 w-4\" />} label="Systems" />
-            <TechPill icon={<Database className=\"h-4 w-4\" />} label="Data" />
-            <TechPill icon={<Command className=\"h-4 w-4\" />} label="Automation" />
+            <TechPill icon={<Server className="h-4 w-4" />} label="Backend" />
+            <TechPill icon={<Cpu className="h-4 w-4" />} label="Systems" />
+            <TechPill icon={<Database className="h-4 w-4" />} label="Data" />
+            <TechPill icon={<Command className="h-4 w-4" />} label="Automation" />
           </div>
           <p className="mt-4 text-sm text-neutral-600 dark:text-neutral-400">
             Languages: C, C++, Rust, Python. Also experienced with HTML/CSS/JS, WordPress, and data domains (AI, BI, Big Data).
